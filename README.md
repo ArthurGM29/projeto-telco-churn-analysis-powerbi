@@ -182,6 +182,6 @@ Auditoria Técnica: Abrir um chamado imediato com a engenharia de redes para dia
 
 👨‍💻 Autor
 Arthur Mesquita
-Estudante de Administração | Analista de Dados & BI.
+Analista de Dados & BI.
 linkedin.com/in/arthur-g-mesquita
 📍 Recife, PE
